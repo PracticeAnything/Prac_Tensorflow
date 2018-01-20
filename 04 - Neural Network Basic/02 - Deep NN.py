@@ -17,6 +17,9 @@ y_data = np.array([
     [0, 0, 1]
 ])
 
+# -- PBW
+# [m, NumOfHidden] = [m, NumOfAttr] * [NumOfAttr, NumOfHidden] + [NumOfHidden]
+# [m, NumOfLabels] = [m, NumOfHidden] * [NumOfHidden, NumOfLabels] + [NumOfLabels]
 #########
 # 신경망 모델 구성
 ######

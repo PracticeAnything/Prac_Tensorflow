@@ -42,3 +42,5 @@ with tf.Session() as sess:
     print("\n=== Test ===")
     print("X: 5, Y:", sess.run(hypothesis, feed_dict={X: 5}))
     print("X: 2.5, Y:", sess.run(hypothesis, feed_dict={X: 2.5}))
+    print("X: x_data, Y:", sess.run(hypothesis, feed_dict={X: x_data}))
+
