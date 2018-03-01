@@ -73,6 +73,8 @@ for step in range(100):
 ######
 prediction = tf.argmax(model, 1)
 target = tf.argmax(Y, 1)
+print('X data:', x_data)
+print('X data:', x_data)
 print('예측값:', sess.run(prediction, feed_dict={X: x_data}))
 print('실제값:', sess.run(target, feed_dict={Y: y_data}))
 

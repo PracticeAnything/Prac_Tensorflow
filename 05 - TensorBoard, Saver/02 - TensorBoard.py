@@ -83,6 +83,20 @@ saver.save(sess, './model/dnn.ckpt', global_step=global_step)
 ######
 prediction = tf.argmax(model, 1)
 target = tf.argmax(Y, 1)
+for i in range(6) :
+    x_data0 = x_data[i,:]
+    x_data0 = np.array([x_data0])
+    print('=    =   =   =   =   =   =   ')
+    print('X data',i,' : shape',x_data0.shape,'\n', x_data0)
+    # print('W1','\n', sess.run(W1))
+    # print('W2','\n', sess.run(W2))
+    # print('W3','\n', sess.run(W3))
+    print('L1','\n', sess.run(L1,feed_dict={X:x_data0}))
+    print('L2','\n', sess.run(L2,feed_dict={X:x_data0}))
+    print('L3','\n', sess.run(model,feed_dict={X:x_data0}))
+    print('Y data',i,':','\n', y_data[i,:])
+    print('=    =   =   =   =   =   =   ')
+
 print('예측값:', sess.run(prediction, feed_dict={X: x_data}))
 print('실제값:', sess.run(target, feed_dict={Y: y_data}))
 
