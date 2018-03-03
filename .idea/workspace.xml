@@ -14,15 +14,31 @@
       <file leaf-file-name="01 - Classification.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/04 - Neural Network Basic/01 - Classification.py">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
             <state relative-caret-position="1166">
               <caret line="54" column="63" lean-forward="false" selection-start-line="54" selection-start-column="63" selection-end-line="54" selection-end-column="63" />
+=======
+            <state relative-caret-position="0">
+              <caret line="54" column="65" lean-forward="false" selection-start-line="54" selection-start-column="65" selection-end-line="54" selection-end-column="65" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="02 - Deep NN.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/04 - Neural Network Basic/02 - Deep NN.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="57" column="5" lean-forward="false" selection-start-line="57" selection-start-column="5" selection-end-line="57" selection-end-column="5" />
+>>>>>>> e5f351566f3106c948d5e3a0efa4d241456e6f3e
               <folding>
-                <element signature="e#54#77#0" expanded="true" />
+                <element signature="e#97#120#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
+<<<<<<< HEAD
       <file leaf-file-name="02 - Deep NN.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/04 - Neural Network Basic/02 - Deep NN.py">
           <provider selected="true" editor-type-id="text-editor">
@@ -103,6 +119,16 @@
             <state relative-caret-position="198">
               <caret line="11" column="5" lean-forward="false" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
               <folding />
+=======
+      <file leaf-file-name="02 - TensorBoard.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/05 - TensorBoard, Saver/02 - TensorBoard.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="849">
+              <caret line="94" column="54" lean-forward="true" selection-start-line="94" selection-start-column="54" selection-end-line="94" selection-end-column="54" />
+              <folding>
+                <element signature="e#46#69#0" expanded="true" />
+              </folding>
+>>>>>>> e5f351566f3106c948d5e3a0efa4d241456e6f3e
             </state>
           </provider>
         </entry>
@@ -132,19 +158,23 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/03 - TensorFlow Basic/03 - Linear Regression.py" />
-        <option value="$PROJECT_DIR$/04 - Neural Network Basic/02 - Deep NN.py" />
         <option value="$PROJECT_DIR$/04 - Neural Network Basic/01 - Classification.py" />
         <option value="$PROJECT_DIR$/04 - Neural Network Basic/03 - Word2Vec.py" />
         <option value="$PROJECT_DIR$/03 - TensorFlow Basic/04-Large-Linear-Reg.py" />
+<<<<<<< HEAD
         <option value="$PROJECT_DIR$/07 - CNN/01 - CNN.py" />
+=======
+        <option value="$PROJECT_DIR$/06 - MNIST/01 - MNIST.py" />
+        <option value="$PROJECT_DIR$/04 - Neural Network Basic/02 - Deep NN.py" />
+        <option value="$PROJECT_DIR$/05 - TensorBoard, Saver/02 - TensorBoard.py" />
+>>>>>>> e5f351566f3106c948d5e3a0efa4d241456e6f3e
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="333" />
-    <option name="y" value="220" />
-    <option name="width" value="1400" />
-    <option name="height" value="1000" />
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="-10" />
+    <option name="width" value="1053" />
+    <option name="height" value="1450" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -162,35 +192,55 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+<<<<<<< HEAD
       <pane id="Scratches" />
       <pane id="Scope" />
+=======
+      <pane id="Scope" />
+      <pane id="Scratches" />
+>>>>>>> e5f351566f3106c948d5e3a0efa4d241456e6f3e
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
               <item name="Prac_Tensorflow" type="b2602c69:ProjectViewProjectNode" />
               <item name="Prac_Tensorflow" type="462c0819:PsiDirectoryNode" />
+<<<<<<< HEAD
             </path>
             <path>
               <item name="Prac_Tensorflow" type="b2602c69:ProjectViewProjectNode" />
               <item name="Prac_Tensorflow" type="462c0819:PsiDirectoryNode" />
               <item name="05 - TensorBoard, Saver" type="462c0819:PsiDirectoryNode" />
+=======
+>>>>>>> e5f351566f3106c948d5e3a0efa4d241456e6f3e
             </path>
             <path>
               <item name="Prac_Tensorflow" type="b2602c69:ProjectViewProjectNode" />
               <item name="Prac_Tensorflow" type="462c0819:PsiDirectoryNode" />
+<<<<<<< HEAD
               <item name="05 - TensorBoard, Saver" type="462c0819:PsiDirectoryNode" />
               <item name="logs" type="462c0819:PsiDirectoryNode" />
+=======
+              <item name="04 - Neural Network Basic" type="462c0819:PsiDirectoryNode" />
+>>>>>>> e5f351566f3106c948d5e3a0efa4d241456e6f3e
             </path>
             <path>
               <item name="Prac_Tensorflow" type="b2602c69:ProjectViewProjectNode" />
               <item name="Prac_Tensorflow" type="462c0819:PsiDirectoryNode" />
+<<<<<<< HEAD
               <item name="06 - MNIST" type="462c0819:PsiDirectoryNode" />
+=======
+              <item name="05 - TensorBoard, Saver" type="462c0819:PsiDirectoryNode" />
+>>>>>>> e5f351566f3106c948d5e3a0efa4d241456e6f3e
             </path>
             <path>
               <item name="Prac_Tensorflow" type="b2602c69:ProjectViewProjectNode" />
               <item name="Prac_Tensorflow" type="462c0819:PsiDirectoryNode" />
+<<<<<<< HEAD
               <item name="07 - CNN" type="462c0819:PsiDirectoryNode" />
+=======
+              <item name="06 - MNIST" type="462c0819:PsiDirectoryNode" />
+>>>>>>> e5f351566f3106c948d5e3a0efa4d241456e6f3e
             </path>
           </expand>
           <select />
@@ -199,8 +249,13 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+<<<<<<< HEAD
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../tf-dev-summit-tensorboard-tutorial" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+=======
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+>>>>>>> e5f351566f3106c948d5e3a0efa4d241456e6f3e
     <property name="SearchEverywhereHistoryKey" value="font&#9;ACTION&#9;EditorIncreaseFontSize" />
   </component>
   <component name="PyConsoleOptionsProvider">
@@ -224,26 +279,43 @@
       </list>
     </option>
   </component>
+<<<<<<< HEAD
   <component name="RunManager" selected="Python.03 - TensorBoard2">
     <configuration name="01 - CNN" type="PythonConfigurationType" factoryName="Python" temporary="true">
+=======
+  <component name="RunManager" selected="Python.02 - TensorBoard">
+    <configuration name="01 - Basic" type="PythonConfigurationType" factoryName="Python" temporary="true">
+>>>>>>> e5f351566f3106c948d5e3a0efa4d241456e6f3e
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
+<<<<<<< HEAD
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/07 - CNN" />
+=======
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/03 - TensorFlow Basic" />
+>>>>>>> e5f351566f3106c948d5e3a0efa4d241456e6f3e
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="TensorFlow-Tutorials" />
+<<<<<<< HEAD
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/07 - CNN/01 - CNN.py" />
+=======
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/03 - TensorFlow Basic/01 - Basic.py" />
+>>>>>>> e5f351566f3106c948d5e3a0efa4d241456e6f3e
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
+<<<<<<< HEAD
     <configuration name="01 - MNIST" type="PythonConfigurationType" factoryName="Python" temporary="true">
+=======
+    <configuration name="01 - Classification" type="PythonConfigurationType" factoryName="Python" temporary="true">
+>>>>>>> e5f351566f3106c948d5e3a0efa4d241456e6f3e
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -255,31 +327,51 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="TensorFlow-Tutorials" />
+<<<<<<< HEAD
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/06 - MNIST/01 - MNIST.py" />
+=======
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/04 - Neural Network Basic/01 - Classification.py" />
+>>>>>>> e5f351566f3106c948d5e3a0efa4d241456e6f3e
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
+<<<<<<< HEAD
     <configuration name="02 - TensorBoard" type="PythonConfigurationType" factoryName="Python" temporary="true">
+=======
+    <configuration name="01 - MNIST" type="PythonConfigurationType" factoryName="Python" temporary="true">
+>>>>>>> e5f351566f3106c948d5e3a0efa4d241456e6f3e
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
+<<<<<<< HEAD
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/05 - TensorBoard, Saver" />
+=======
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/06 - MNIST" />
+>>>>>>> e5f351566f3106c948d5e3a0efa4d241456e6f3e
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="TensorFlow-Tutorials" />
+<<<<<<< HEAD
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/05 - TensorBoard, Saver/02 - TensorBoard.py" />
+=======
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/06 - MNIST/01 - MNIST.py" />
+>>>>>>> e5f351566f3106c948d5e3a0efa4d241456e6f3e
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
+<<<<<<< HEAD
     <configuration name="02 - tf.layers" type="PythonConfigurationType" factoryName="Python" temporary="true">
+=======
+    <configuration name="02 - Deep NN" type="PythonConfigurationType" factoryName="Python" temporary="true">
+>>>>>>> e5f351566f3106c948d5e3a0efa4d241456e6f3e
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -291,13 +383,21 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="TensorFlow-Tutorials" />
+<<<<<<< HEAD
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/07 - CNN/02 - tf.layers.py" />
+=======
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/04 - Neural Network Basic/02 - Deep NN.py" />
+>>>>>>> e5f351566f3106c948d5e3a0efa4d241456e6f3e
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
+<<<<<<< HEAD
     <configuration name="03 - TensorBoard2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+=======
+    <configuration name="02 - TensorBoard" type="PythonConfigurationType" factoryName="Python" temporary="true">
+>>>>>>> e5f351566f3106c948d5e3a0efa4d241456e6f3e
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -309,13 +409,18 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="TensorFlow-Tutorials" />
+<<<<<<< HEAD
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/05 - TensorBoard, Saver/03 - TensorBoard2.py" />
+=======
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/05 - TensorBoard, Saver/02 - TensorBoard.py" />
+>>>>>>> e5f351566f3106c948d5e3a0efa4d241456e6f3e
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
     <list size="5">
+<<<<<<< HEAD
       <item index="0" class="java.lang.String" itemvalue="Python.01 - CNN" />
       <item index="1" class="java.lang.String" itemvalue="Python.02 - tf.layers" />
       <item index="2" class="java.lang.String" itemvalue="Python.01 - MNIST" />
@@ -329,6 +434,21 @@
         <item index="2" class="java.lang.String" itemvalue="Python.02 - tf.layers" />
         <item index="3" class="java.lang.String" itemvalue="Python.01 - CNN" />
         <item index="4" class="java.lang.String" itemvalue="Python.01 - MNIST" />
+=======
+      <item index="0" class="java.lang.String" itemvalue="Python.01 - Classification" />
+      <item index="1" class="java.lang.String" itemvalue="Python.02 - Deep NN" />
+      <item index="2" class="java.lang.String" itemvalue="Python.01 - Basic" />
+      <item index="3" class="java.lang.String" itemvalue="Python.01 - MNIST" />
+      <item index="4" class="java.lang.String" itemvalue="Python.02 - TensorBoard" />
+    </list>
+    <recent_temporary>
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Python.02 - TensorBoard" />
+        <item index="1" class="java.lang.String" itemvalue="Python.02 - Deep NN" />
+        <item index="2" class="java.lang.String" itemvalue="Python.01 - Classification" />
+        <item index="3" class="java.lang.String" itemvalue="Python.01 - MNIST" />
+        <item index="4" class="java.lang.String" itemvalue="Python.01 - Basic" />
+>>>>>>> e5f351566f3106c948d5e3a0efa4d241456e6f3e
       </list>
     </recent_temporary>
   </component>
@@ -349,6 +469,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
+<<<<<<< HEAD
     <frame x="-8" y="-8" width="1870" height="1096" extended-state="6" />
     <editor active="true" />
     <layout>
@@ -362,6 +483,20 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39978677" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+=======
+    <frame x="-11" y="-11" width="2085" height="1462" extended-state="7" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="true" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.17376573" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.50751334" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+>>>>>>> e5f351566f3106c948d5e3a0efa4d241456e6f3e
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -386,6 +521,7 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/04 - Neural Network Basic/01 - Classification.py">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="1166">
           <caret line="54" column="63" lean-forward="false" selection-start-line="54" selection-start-column="63" selection-end-line="54" selection-end-column="63" />
           <folding>
@@ -494,10 +630,15 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="946">
           <caret line="47" column="48" lean-forward="false" selection-start-line="47" selection-start-column="48" selection-end-line="47" selection-end-column="48" />
+=======
+        <state relative-caret-position="1296">
+          <caret line="54" column="65" lean-forward="false" selection-start-line="54" selection-start-column="65" selection-end-line="54" selection-end-column="65" />
+>>>>>>> e5f351566f3106c948d5e3a0efa4d241456e6f3e
           <folding />
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/06 - MNIST/01 - MNIST.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="198">
@@ -538,10 +679,19 @@
           <caret line="34" column="80" lean-forward="false" selection-start-line="34" selection-start-column="80" selection-end-line="34" selection-end-column="80" />
           <folding>
             <element signature="e#58#81#0" expanded="true" />
+=======
+    <entry file="file://$PROJECT_DIR$/04 - Neural Network Basic/02 - Deep NN.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1368">
+          <caret line="57" column="5" lean-forward="false" selection-start-line="57" selection-start-column="5" selection-end-line="57" selection-end-column="5" />
+          <folding>
+            <element signature="e#97#120#0" expanded="true" />
+>>>>>>> e5f351566f3106c948d5e3a0efa4d241456e6f3e
           </folding>
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/04 - Neural Network Basic/01 - Classification.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1007">
@@ -564,9 +714,78 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1007">
           <caret line="54" column="63" lean-forward="false" selection-start-line="54" selection-start-column="63" selection-end-line="54" selection-end-column="63" />
+=======
+    <entry file="file://$PROJECT_DIR$/05 - TensorBoard, Saver/02 - TensorBoard.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="720">
+          <caret line="30" column="28" lean-forward="false" selection-start-line="30" selection-start-column="28" selection-end-line="30" selection-end-column="28" />
+>>>>>>> e5f351566f3106c948d5e3a0efa4d241456e6f3e
           <folding>
-            <element signature="e#54#77#0" expanded="true" />
+            <element signature="e#46#69#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04 - Neural Network Basic/01 - Classification.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1272">
+          <caret line="54" column="65" lean-forward="false" selection-start-line="54" selection-start-column="65" selection-end-line="54" selection-end-column="65" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04 - Neural Network Basic/02 - Deep NN.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1344">
+          <caret line="57" column="5" lean-forward="false" selection-start-line="57" selection-start-column="5" selection-end-line="57" selection-end-column="5" />
+          <folding>
+            <element signature="e#97#120#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/05 - TensorBoard, Saver/02 - TensorBoard.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="696">
+          <caret line="30" column="28" lean-forward="false" selection-start-line="30" selection-start-column="28" selection-end-line="30" selection-end-column="28" />
+          <folding>
+            <element signature="e#46#69#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04 - Neural Network Basic/01 - Classification.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1188">
+          <caret line="54" column="63" lean-forward="false" selection-start-line="54" selection-start-column="63" selection-end-line="54" selection-end-column="63" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04 - Neural Network Basic/02 - Deep NN.py">
+      <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
+        <state relative-caret-position="152">
+          <caret line="11" column="38" lean-forward="false" selection-start-line="11" selection-start-column="38" selection-end-line="11" selection-end-column="38" />
+=======
+        <state relative-caret-position="748">
+          <caret line="35" column="31" lean-forward="false" selection-start-line="35" selection-start-column="31" selection-end-line="35" selection-end-column="31" />
+          <folding>
+            <element signature="e#97#120#0" expanded="true" />
+          </folding>
+>>>>>>> e5f351566f3106c948d5e3a0efa4d241456e6f3e
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04 - Neural Network Basic/01 - Classification.py">
+      <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
+        <state relative-caret-position="1166">
+=======
+        <state relative-caret-position="1007">
+>>>>>>> e5f351566f3106c948d5e3a0efa4d241456e6f3e
+          <caret line="54" column="63" lean-forward="false" selection-start-line="54" selection-start-column="63" selection-end-line="54" selection-end-column="63" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -574,7 +793,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1501">
           <caret line="80" column="78" lean-forward="false" selection-start-line="80" selection-start-column="78" selection-end-line="80" selection-end-column="78" />
-          <folding />
+          <folding>
+            <element signature="e#97#120#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -586,16 +807,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/03 - TensorFlow Basic/3.3.ipynb" />
-    <entry file="file://$PROJECT_DIR$/04 - Neural Network Basic/01 - Classification.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1166">
-          <caret line="54" column="63" lean-forward="false" selection-start-line="54" selection-start-column="63" selection-end-line="54" selection-end-column="63" />
-          <folding>
-            <element signature="e#54#77#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/03 - TensorFlow Basic/04-Large-Linear-Reg.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="459">
@@ -614,11 +825,30 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="95">
           <caret line="5" column="0" lean-forward="true" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+<<<<<<< HEAD
+=======
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/06 - MNIST/01 - MNIST.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="41" column="0" lean-forward="false" selection-start-line="41" selection-start-column="0" selection-end-line="41" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04 - Neural Network Basic/01 - Classification.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="54" column="65" lean-forward="false" selection-start-line="54" selection-start-column="65" selection-end-line="54" selection-end-column="65" />
+          <folding />
+>>>>>>> e5f351566f3106c948d5e3a0efa4d241456e6f3e
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/04 - Neural Network Basic/02 - Deep NN.py">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="1254">
           <caret line="58" column="39" lean-forward="false" selection-start-line="58" selection-start-column="39" selection-end-line="58" selection-end-column="39" />
           <folding />
@@ -647,10 +877,17 @@
           <caret line="60" column="18" lean-forward="false" selection-start-line="60" selection-start-column="18" selection-end-line="60" selection-end-column="18" />
           <folding>
             <element signature="e#58#81#0" expanded="true" />
+=======
+        <state relative-caret-position="0">
+          <caret line="57" column="5" lean-forward="false" selection-start-line="57" selection-start-column="5" selection-end-line="57" selection-end-column="5" />
+          <folding>
+            <element signature="e#97#120#0" expanded="true" />
+>>>>>>> e5f351566f3106c948d5e3a0efa4d241456e6f3e
           </folding>
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/07 - CNN/02 - tf.layers.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1100">
@@ -682,6 +919,15 @@
         <state relative-caret-position="748">
           <caret line="91" column="0" lean-forward="true" selection-start-line="91" selection-start-column="0" selection-end-line="91" selection-end-column="0" />
           <folding />
+=======
+    <entry file="file://$PROJECT_DIR$/05 - TensorBoard, Saver/02 - TensorBoard.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="849">
+          <caret line="94" column="54" lean-forward="true" selection-start-line="94" selection-start-column="54" selection-end-line="94" selection-end-column="54" />
+          <folding>
+            <element signature="e#46#69#0" expanded="true" />
+          </folding>
+>>>>>>> e5f351566f3106c948d5e3a0efa4d241456e6f3e
         </state>
       </provider>
     </entry>

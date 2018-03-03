@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 model_checkpoint_path: "dnn.ckpt-400"
 all_model_checkpoint_paths: "dnn.ckpt-400"
+=======
+model_checkpoint_path: "dnn.ckpt-3500"
+all_model_checkpoint_paths: "dnn.ckpt-3500"
+>>>>>>> e5f351566f3106c948d5e3a0efa4d241456e6f3e
