@@ -22,15 +22,15 @@ Y = tf.placeholder(tf.float32)
 # with tf.name_scope 으로 묶은 블럭은 텐서보드에서 한 레이어안에 표현해줍니다
 with tf.name_scope('layer1'):
     W1 = tf.Variable(tf.random_uniform([2, 10], -1., 1.), name='W1')
-    L1 = tf.nn.relu(tf.matmul(X, W1))
+    L1 = tf.nn.relu(tf.matmul(X, W1), name='L1')
 
 with tf.name_scope('layer2'):
     W2 = tf.Variable(tf.random_uniform([10, 20], -1., 1.), name='W2')
-    L2 = tf.nn.relu(tf.matmul(L1, W2))
+    L2 = tf.nn.relu(tf.matmul(L1, W2), name='L2')
 
 with tf.name_scope('output'):
     W3 = tf.Variable(tf.random_uniform([20, 3], -1., 1.), name='W3')
-    model = tf.matmul(L2, W3)
+    model = tf.matmul(L2, W3, name='L3')
 
 with tf.name_scope('optimizer'):
     cost = tf.reduce_mean(
@@ -88,10 +88,11 @@ for i in range(6) :
     x_data0 = np.array([x_data0])
     print('=    =   =   =   =   =   =   ')
     print('X data',i,' : shape',x_data0.shape,'\n', x_data0)
-    # print('W1','\n', sess.run(W1))
-    # print('W2','\n', sess.run(W2))
-    # print('W3','\n', sess.run(W3))
+#     # print('W1','\n', sess.run(W1))
+#     # print('W2','\n', sess.run(W2))
+#     # print('W3','\n', sess.run(W3))
     print('L1','\n', sess.run(L1,feed_dict={X:x_data0}))
+    print(L1)
     print('L2','\n', sess.run(L2,feed_dict={X:x_data0}))
     print('L3','\n', sess.run(model,feed_dict={X:x_data0}))
     print('Y data',i,':','\n', y_data[i,:])

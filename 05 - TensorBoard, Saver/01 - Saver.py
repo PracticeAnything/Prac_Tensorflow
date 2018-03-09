@@ -1,13 +1,14 @@
 # 모델을 저장하고 재사용하는 방법을 익혀봅니다.
 
-import tensorflow as tf
 import numpy as np
+import tensorflow as tf
 
+g_model_path = './model'
+g_ckpt_path = './model/dnn.ckpt'
 
 data = np.loadtxt('./data.csv', delimiter=',',
                   unpack=True, dtype='float32')
 
-np.random.normal
 
 # 털, 날개, 기타, 포유류, 조류
 # x_data = 0, 1
@@ -53,7 +54,7 @@ saver = tf.train.Saver(tf.global_variables())
 # 모델이 있는지 체크
 # 모델이 있으면 학습된 값들을 초기화
 # 없으면 새로 초기화
-ckpt = tf.train.get_checkpoint_state('./model')
+ckpt = tf.train.get_checkpoint_state(g_model_path)
 if ckpt and tf.train.checkpoint_exists(ckpt.model_checkpoint_path):
     saver.restore(sess, ckpt.model_checkpoint_path)
 else:
@@ -67,7 +68,7 @@ for step in range(2):
           'Cost: %.3f' % sess.run(cost, feed_dict={X: x_data, Y: y_data}))
 
 # 최적화가 끝난 뒤, 변수를 저장합니다.
-saver.save(sess, './model/dnn.ckpt', global_step=global_step)
+saver.save(sess, g_ckpt_path, global_step=global_step)
 
 #########
 # 결과 확인
