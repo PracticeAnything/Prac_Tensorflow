@@ -1,2 +1,6 @@
 *.ckpt
 checkpoint
+.idea
+./05 - TensorBoard, Saver/model
+./05 - TensorBoard, Saver/logs
+

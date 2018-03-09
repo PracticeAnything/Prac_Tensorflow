@@ -2,6 +2,7 @@
 import tensorflow as tf
 
 from tensorflow.examples.tutorials.mnist import input_data
+
 mnist = input_data.read_data_sets("./mnist/data/", one_hot=True)
 
 #########
@@ -18,7 +19,7 @@ keep_prob = tf.placeholder(tf.float32)
 # L1 Conv shape=(?, 28, 28, 32)
 #    Pool     ->(?, 14, 14, 32)
 W1 = tf.Variable(tf.random_normal([3, 3, 1, 32], stddev=0.01))
-# tf.nn.conv2d 를 이용해 한칸씩 움직이는 컨볼루션 레이어를 쉽게 만들 수 있습니다.
+# tf.nn.conv2d 를 이용해 한칸씩 움직이는 컨볼루션 레이어를 쉽게 만들 수 있습니다.A
 # padding='SAME' 은 커널 슬라이딩시 최외곽에서 한칸 밖으로 더 움직이는 옵션
 L1 = tf.nn.conv2d(X, W1, strides=[1, 1, 1, 1], padding='SAME')
 L1 = tf.nn.relu(L1)
@@ -88,6 +89,6 @@ print('최적화 완료!')
 is_correct = tf.equal(tf.argmax(model, 1), tf.argmax(Y, 1))
 accuracy = tf.reduce_mean(tf.cast(is_correct, tf.float32))
 print('정확도:', sess.run(accuracy,
-                        feed_dict={X: mnist.test.images.reshape(-1, 28, 28, 1),
-                                   Y: mnist.test.labels,
-                                   keep_prob: 1}))
+                       feed_dict={X: mnist.test.images.reshape(-1, 28, 28, 1),
+                                  Y: mnist.test.labels,
+                                  keep_prob: 1}))
