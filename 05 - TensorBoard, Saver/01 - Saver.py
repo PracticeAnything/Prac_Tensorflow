@@ -7,6 +7,8 @@ import numpy as np
 data = np.loadtxt('./data.csv', delimiter=',',
                   unpack=True, dtype='float32')
 
+np.random.normal
+
 # 털, 날개, 기타, 포유류, 조류
 # x_data = 0, 1
 # y_data = 2, 3, 4
@@ -48,6 +50,9 @@ sess = tf.Session()
 # global_variables 함수를 통해 앞서 정의하였던 변수들을 저장하거나 불러올 변수들로 설정합니다.
 saver = tf.train.Saver(tf.global_variables())
 
+# 모델이 있는지 체크
+# 모델이 있으면 학습된 값들을 초기화
+# 없으면 새로 초기화
 ckpt = tf.train.get_checkpoint_state('./model')
 if ckpt and tf.train.checkpoint_exists(ckpt.model_checkpoint_path):
     saver.restore(sess, ckpt.model_checkpoint_path)
